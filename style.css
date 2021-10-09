@@ -1,0 +1,62 @@
+.box {
+    border: 1px solid #000;
+}
+
+.box-1 {
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+}
+
+.box-2 {
+    width: 250px;
+    height: 250px;
+    background-color: antiquewhite;
+}
+
+.box-3 {
+    width: 300px;
+    height: 300px;
+    background-color: aquamarine;
+}
+
+.box-13 {
+    width: 200px;
+    height: 200px;
+    background-color: beige;
+}
+
+.box-12 {
+    width: 250px;
+    height: 250px;
+    background-color: blanchedalmond;
+}
+
+.box-11 {
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+}
+
+
+.box-21 {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+}
+
+.box-22 {
+    width: 250px;
+    height: 250px;
+    background-color: burlywood;
+}
+
+.box-23 {
+    width: 300px;
+    height: 300px;
+    background-color: coral;
+}
+
+.section {
+    display: flex;
+}
